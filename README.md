@@ -1,8 +1,7 @@
 # py_cellular_sand_simulation
-<h3>
-Pygame project which simulates sand using a grid and cell-based logic.
-Made for learning purposes. The code is not perfect and runs quite slow on bigger grid sizes.
-</h3>
+<h3>Pygame project which simulates sand using a grid and cell-based logic.</h3>
+<p>Made for learning purposes.</p>
+<p>The code is not perfect and runs quite slow on bigger grid sizes.</p>
 <br>
 <h3>Key binds</h3>
 <div>
