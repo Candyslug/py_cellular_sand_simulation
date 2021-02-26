@@ -9,4 +9,4 @@ C - Clear current cell configuration
 
 Left Mouse Button - Create cell at mouse position
 
-Free to use the code however you want.
+<h1>Free to use the code however you want.</h1>
