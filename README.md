@@ -4,7 +4,6 @@ Pygame project which simulates sand using a grid and cell-based logic.
 Made for learning purposes. The code is not perfect and runs quite slow on bigger grid sizes.
 </h3>
 <br>
-<br>
 <h3>Key binds</h3>
 <div>
 <p>R - Randomize cell configuration</p>
