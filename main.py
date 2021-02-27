@@ -16,7 +16,7 @@ class Window():
 	def mainLoop(self):
 		while self.isOpen:
 			self.handleEvents()
-			self.update(self.screen)
+			self.update()
 			self.render()
 		else:
 			self.quit()
@@ -31,7 +31,7 @@ class Window():
 			if self.isOpen:
 				self.myGrid.handleEvents(event)
 
-	def update(self, screen):
+	def update(self):
 		self.myGrid.update()
 
 	def render(self):
